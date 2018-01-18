@@ -13,7 +13,7 @@ comments: false
       <div class="caption">
         <h3>Portfolio Joshua Mark Prpich</h3>
         <p>My personal portfolio designed using Hexo. Basic Usage of Writing, Front-Matter, Tag Plugins, Asset Folders, and Deployment.</p>
-        <a href="https://jprpich.github.io" target="_blank">Go To Home Page</a>
+        <a href="https://jprpich.github.io/portfolio" target="_blank">Go To Home Page</a>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ comments: false
       <div class="caption">
         <h3>E-commerce Landing Page</h3>
         <p>A landing page designed with Bootstrap.</p>
-        <a href="https://jprpich.github.io/e-commerce">Visit Landing Page</a>
+        <a href="https://jprpich.github.io/e-commerce" target="_blank">Visit Landing Page</a>
       </div>
     </div>
   </div>  
@@ -73,7 +73,7 @@ comments: false
       <div class="caption">
         <h3>API Country Knowledge Game</h3>
         <p>Game made with a Country API using Ajax and Jquery.</p>
-        <a href="https://jprpich.github.io/geography-whiz-game/">Visit Project</a>
+        <a href="https://jprpich.github.io/geography-whiz-game/" target="_blank">Visit Project</a>
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@ comments: false
       <div class="caption">
         <h3>Yelp Camp</h3>
         <p>Camping Application for users to comment and upload their favorite camping sites. </p>
-        <a href="https://floating-harbor-66947.herokuapp.com/">Visit Project</a>
+        <a href="https://floating-harbor-66947.herokuapp.com/" target="_blank">Visit Project</a>
       </div>
     </div>
   </div>
