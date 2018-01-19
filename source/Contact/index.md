@@ -5,31 +5,30 @@ comments: false
 ---
 
 <style>
-  .skills {
-    padding: 20px;
-  }
   .skills a {
     font-size: 34px;
   }
-  .skills h2 {
-    margin-left: 15px;
+
+  p, .fa-envelope {
+    font-size: 16px;
   }
 
 </style>
 
 
 <div class="row skills">
-  <h2>Contact Me</h2> 
-  <div class="col-sm-8">
-    <img src="https://images.unsplash.com/photo-1497005367839-6e852de72767?auto=format&fit=crop&w=1347&q=80" alt="">
+  <div class="col-sm-6 col-sm-offset-3">  
+    <form action="https://getsimpleform.com/messages?form_api_token=41a10416ead66569b2471da7bbf9f07f" method="post"><div class="form-group"><input type='text' name='title' placeholder="Email" class="form-control" /></div><div class="form-group"><textarea name="message" cols="30" rows="10" placeholder="Message" class="form-control"></textarea></div><input type='submit' value='Send' class="btn btn-primary btn-lg btn-block" /></form>      
+      <p>
+        <i class="fa fa-thumb-tack" aria-hidden="true"></i>  Bogotá Colombia
+        <i class="fa fa-envelope" aria-hidden="true"></i>  joshuaprpich@gmail.com
+        <i class="fa fa-skype" aria-hidden="true"></i>  joshuaprpich
+        <i class="fa fa-mobile" aria-hidden="true"></i>  +57 3002171693
+        <i class="fa fa-globe" aria-hidden="true"></i>  jprpich.github.io/portolio    
+       </p>
+        <a href="https://github.com/jprpich" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a><a href="https://www.facebook.com/joshprpich"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+    </div> 
   </div>
-  <div class="col-sm-4">  
-    <p>Bogotá - Colombia
-       +57 3002171693
-       jprpich
-       joshuaprpich@gmail.com
-       jprpich.github.io</p>
-      <a href="https://github.com/jprpich" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a><a href="https://www.facebook.com/joshprpich"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-  </div>
+  
 
 </div>
