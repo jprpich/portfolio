@@ -9,7 +9,11 @@ comments: false
     font-size: 34px;
   }
 
-  p, .fa-envelope {
+  .fa-envelope {
+    font-size: 16px;
+  }
+
+  .skills p {
     font-size: 16px;
   }
 
