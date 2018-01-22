@@ -22,7 +22,7 @@ comments: false
 
 <div class="row skills">
   <div class="col-sm-6 col-sm-offset-3">  
-    <p>I am currently available and can be contacted for job opportunities or projects to work on.</p>
+    <p>I am currently available and can be contacted for job opportunities or projects to collaborate and work on.</p>
     <form action="https://getsimpleform.com/messages?form_api_token=41a10416ead66569b2471da7bbf9f07f" method="post"><div class="form-group"><input type='email' name='title' placeholder="Email" class="form-control" /></div><div class="form-group"><textarea name="message" cols="30" rows="10" placeholder="Message" class="form-control"></textarea></div><input type='submit' value='Send' class="btn btn-primary btn-lg btn-block" /></form>      
       <p>
         <i class="fa fa-thumb-tack" aria-hidden="true"></i>  Bogotá Colombia
